@@ -42,6 +42,8 @@ go run  .\client\main.go
 ```
 
 
+调试工具推荐使用 BloomRPC
+
 ##  常见异常
 
 - **异常1**
